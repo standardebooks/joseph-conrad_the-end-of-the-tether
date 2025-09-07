@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/joseph-conrad/the-end-of-the-tether</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-09-07T20:47:34Z</dc:date>
+		<meta property="dcterms:modified">2025-09-07T20:47:34Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -42,16 +42,16 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh2008108621</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">An aging captain, having made a name for himself in the age of sail, is forced by circumstances to do a final run on a steamer.</dc:description>
+		<dc:description id="description">An aging captain, having made a name for himself in the age of sail, is forced by circumstance to do a final run on a steamer.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Henry Whalley is an aging but once-famous merchant captain in Southeast Asia. He made a name for himself in the age of sail, when he commanded clipper ships and even made some minor geographical discoveries. When a banking crash wipes out his life savings, he retires but has enough funds to sail on his own small ship. He is, however, forced to sell this ship when his daughter writes asking for financial aid. To provide for himself and generate more funds for his daughter, he enlists as captain of a dubious steamer under a three-year contract. Meanwhile, the owner of the steamer is a compulsive gambler looking for ways to take over the captain’s assets. Whalley is now near the end of his contract, with one final run to complete.&lt;/p&gt;
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/joseph-conrad"&gt;Joseph Conrad&lt;/a&gt; included &lt;i&gt;The End of the Tether&lt;/i&gt; as part of &lt;i&gt;Youth, a Narrative and Two Other Stories&lt;/i&gt;, a collection published in 1902. While less famous than &lt;a href="https://standardebooks.org/ebooks/joseph-conrad/heart-of-darkness"&gt;&lt;i&gt;Heart of Darkness&lt;/i&gt;&lt;/a&gt; (also part of that collection, though first published three years earlier as a serial), &lt;i&gt;The End of the Tether&lt;/i&gt; is a work notable for its central themes of money, industrial development, and retirement.&lt;/p&gt;
+			&lt;p&gt;Henry Whalley is an aging but once-famous merchant captain in Southeast Asia. He made a name for himself in the age of sail, when he commanded clipper ships and even made some minor geographical discoveries. When a banking crash wipes out his life savings, he retires with enough funds to sail on his own small ship. He is, however, forced to sell this ship when his daughter writes asking for financial aid. To provide for himself and his daughter, he enlists as captain of a dubious steamer under a three-year contract. Meanwhile, the owner of the steamer is a compulsive gambler looking for ways to take over the captain’s assets. Whalley is now near the end of his contract, with one final run to complete.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/joseph-conrad"&gt;Joseph Conrad&lt;/a&gt; included &lt;i&gt;The End of the Tether&lt;/i&gt; as part of &lt;i&gt;Youth, a Narrative and Two Other Stories&lt;/i&gt;, a collection published in 1902. While less famous than &lt;a href="https://standardebooks.org/ebooks/joseph-conrad/heart-of-darkness"&gt;&lt;i&gt;Heart of Darkness&lt;/i&gt;&lt;/a&gt; (also part of that collection, though first published three years earlier as a serial), &lt;i&gt;The End of the Tether&lt;/i&gt; is notable for its central themes of money, industrial development, and retirement.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/527</dc:source>
 		<dc:source>https://archive.org/details/TheEndOfTheTether_771</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">53090</meta>
+		<meta property="se:reading-ease.flesch">69.52</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/joseph-conrad_the-end-of-the-tether</meta>
 		<dc:creator id="author">Joseph Conrad</dc:creator>
 		<meta property="file-as" refines="#author">Conrad, Joseph</meta>
@@ -81,6 +81,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Vince Rice</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Rice, Vince</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.brokenandsaved.com/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
