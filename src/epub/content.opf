@@ -30,10 +30,10 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">The End of the Tether</dc:title>
 		<meta property="file-as" refines="#title">End of the Tether, The</meta>
-		<dc:subject id="subject-1">Ship captains -- Fiction</dc:subject>
-		<dc:subject id="subject-2">Fathers and daughters -- Fiction</dc:subject>
-		<dc:subject id="subject-3">Seafaring life -- Fiction</dc:subject>
-		<dc:subject id="subject-4">Older men -- Fiction</dc:subject>
+		<dc:subject id="subject-1">Ship captains--Fiction</dc:subject>
+		<dc:subject id="subject-2">Fathers and daughters--Fiction</dc:subject>
+		<dc:subject id="subject-3">Seafaring life--Fiction</dc:subject>
+		<dc:subject id="subject-4">Older men--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008111148</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
